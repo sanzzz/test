@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-ech "This is first script"
+echo "This is first script"
